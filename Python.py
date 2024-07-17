@@ -1,4 +1,4 @@
-# Oddiy to-do ro'yxati dasturi
+#Assalomu alaykum , bu vazifalar ro'yxati dasturi
 
 todo_list = []
 
